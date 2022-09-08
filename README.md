@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hey yall, my name is Leonardo, also known as Dutra
 
 - 🔭 I've cleaned some old repositories and I’m currently working on some new fresh projects.
 - 🌱 I’m currently learning more stacks to get a certification, like OpenJS Node.js Services Developer (JSNSD).
+
+[![Leorsgomes GitHub stats](https://github-readme-stats.vercel.app/api?username=leorsgomes&count_private=true&show_icons=true&theme=synthwave)](https://github.com/leorsgomes/leorsgomes)
 <!--
 **leorsgomes/leorsgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
