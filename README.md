@@ -1,7 +1,7 @@
 ### Hey yall, my name is Leonardo, also known as Dutra
 
 - 🔭 I've cleaned some old repositories and I’m currently working on some new fresh projects.
-- 🌱 I’m currently learning more stacks to get a certification, like OpenJS Node.js Services Developer (JSNSD).
+- 🌱 I’m currently learning more about WEB 4.0 and more stacks to get a certification, like OpenJS Node.js Services Developer (JSNSD).
 - 📫 How to reach me: leonardovdutra1995@gmail.com
 
 [![Leorsgomes GitHub stats](https://github-readme-stats.vercel.app/api?username=leorsgomes&count_private=true&show_icons=true&theme=synthwave)](https://github.com/leorsgomes/leorsgomes)
